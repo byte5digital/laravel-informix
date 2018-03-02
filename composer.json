@@ -1,0 +1,30 @@
+{
+  "name": "byte5digital/laravel-informix",
+  "description": "Informix DB driver for Laravel 5",
+  "keywords": ["informix", "laravel", "laravel 5", "ifx" ],
+  "license": "MIT",
+  "version": "1.0.4",
+  "authors": [
+    {
+      "name": "Marcel Wege",
+      "email": "mwege@byte5.de"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "illuminate/support": "5.5.*",
+    "illuminate/database": "5.5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Byte5\\LaravelInformix\\": "./src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Byte5\\LaravelInformix\\InformixDBServiceProvider"
+      ]
+    }
+  }
+}
