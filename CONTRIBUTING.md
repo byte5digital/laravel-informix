@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/byte5digital/laravel-ifx).
+We accept contributions via Pull Requests on [Github](https://github.com/byte5digital/laravel-informix).
 
 
 ## Pull Requests

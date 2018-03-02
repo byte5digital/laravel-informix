@@ -1,7 +1,7 @@
 ## Laravel Informix Database Package
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![StyleCI](https://styleci.io/repos/123569635/shield?branch=master)](https://styleci.io/repos/123569635)
-[![Total Downloads](https://img.shields.io/packagist/dt/byte5digital/laravel-ifx.svg?style=flat-square)](https://packagist.org/packages/byte5digital/laravel-harvest)
+[![Total Downloads](https://img.shields.io/packagist/dt/byte5digital/laravel-informix.svg?style=flat-square)](https://packagist.org/packages/byte5digital/laravel-harvest)
 
 Laravel-ifx is an Informix Database Driver package for [Laravel Framework](http://laravel.com/) - thanks @taylorotwell. Laravel-ifx is an extension of [Illuminate/Database](https://github.com/illuminate/database) that uses either the PDO extension wrapped into the PDO namespace.
 
